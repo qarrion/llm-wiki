@@ -1,0 +1,37 @@
+{
+  "model" : "opusplan",
+  
+  "plansDirectory": ".claude/plans/",
+  
+  "language": "korean",
+
+  "statusLine": {
+    "type": "command",
+    "command": ".claude/statusline.sh"
+  },
+
+  "permissions": {
+    "allow": [
+      "Read(src/**)",
+      "Edit(src/**)"
+      ],
+    "deny": [
+      "Read(.venv/**)",
+      "Read(venv/**)",
+      "Read(node_modules/**)",
+      "Read(__pycache__/**)",
+      "Read(.git/objects/**)",
+      "Read(dist/**)",
+      "Read(build/**)",
+      "Read(.env)",
+      "Read(.env.*)",
+      "Edit(.venv/**)",
+      "Edit(node_modules/**)",
+      "Edit(.env)",
+      "Edit(.env.*)",
+
+      "Edit(./reference/**)"
+    ]
+  }
+
+}

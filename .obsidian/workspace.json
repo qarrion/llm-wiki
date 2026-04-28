@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "7fe2b016321f9823",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b8a5494cc0537e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47a09a6ab657cb83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "초안_v3/초안_v3_page3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "초안_v3_page3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a0a4ac54f5075d86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7885b355124ca775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "초안_v3/초안v3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "초안v3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fb9b7abce6483c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8a7216b6eab1f9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "278aa6f83f413218",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "2612c694f6b4d0e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "7e26af9bb297d2dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "233925d7eafd7e5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f2d75b5e3454fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a8f5517b8f4ceda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "초안_v3/초안_v3_page3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "초안_v3_page3 의 백링크"
+            }
+          },
+          {
+            "id": "b77b8d7a958c968b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "초안_v3/초안_v3_page3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "초안_v3_page3 의 나가는 링크"
+            }
+          },
+          {
+            "id": "2e7488fedfa8b167",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "c9dbad66e46d616f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "b2f0f75cfbbdb78e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "초안_v3/초안_v3_page3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "초안_v3_page3 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "47a09a6ab657cb83",
+  "lastOpenFiles": [
+    "초안_v3/초안v3.md",
+    "조사자료/git원문.md",
+    "초안_v3/초안_v3_page3.md",
+    "조사자료/x원문.md",
+    "조사자료/두글 비교.md",
+    "초안_v1/초안.md",
+    "초안_v3/초안_v3_page2.md",
+    "초안_v3/~$초안v3.pptx",
+    "초안_v3/__pycache__/_design.cpython-313.pyc",
+    "초안_v3/__pycache__",
+    "초안_v3/_design.py",
+    "초안_v3/_build_slide2.py",
+    "초안_v3/초안_v3c_page2.md",
+    "초안_v3/초안_v3b_page2.md",
+    "초안_v3/초안_v3a_page2.md",
+    "초안_v2/초안_v2_page2.md",
+    "초안_v2/초안_v2_page3.md",
+    "초안_v2/초안_v2.md",
+    "초안_v3/_slide1_preview.png",
+    "초안_v3/초안v3.pptx",
+    "초안_v3/_build_slide1.py",
+    "초안_v3/_x_composite.png",
+    "초안_v3",
+    "초안_v1",
+    "초안_v2_page3.md",
+    "초안_v2/초안_v2_page4_5.md",
+    "초안_v2",
+    "초안_v2_page4_5.md",
+    "초안_v2.md",
+    "초안_v2_page2.md",
+    "생각_v2.md",
+    "초안.md",
+    "화면 캡처 2026-04-28 111952.png",
+    "_excalidraw_images/c393bac0fb1e.png",
+    "_excalidraw_images/d67f1dc00eac.png",
+    "_excalidraw_images/9f406cb4d08c.png"
+  ]
+}
