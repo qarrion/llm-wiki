@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "초안_v3/초안_v3_page3.md",
+                "file": "초안_v4/초안_v4_page3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "초안_v3_page3"
+              "title": "초안_v4_page3"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "초안_v3/초안v3.md",
+                "file": "초안_v4/초안_v4_page2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "초안v3"
+              "title": "초안_v4_page2"
             }
           }
         ]
@@ -205,9 +205,32 @@
   },
   "active": "47a09a6ab657cb83",
   "lastOpenFiles": [
+    "초안_v4/초안_v4_page6.md",
+    "초안_v4/초안_v4_page5.md",
+    "초안_v4/초안_v4_page4.md",
+    "초안_v4/초안_v4_page4.md.tmp.18212.1777388470315",
+    "초안_v3/초안_v3_page4.md",
+    "초안_v4/초안_v4_page2.md",
+    "초안_v4/초안_v4_page3.md",
+    "초안_v4/초안_v4_page1.md",
     "초안_v3/초안v3.md",
-    "조사자료/git원문.md",
+    "초안_v4/image.png",
+    "image.png",
+    "초안_v4/obsidian_graph.png",
+    "초안_v4/수정요약.md",
+    "초안_v4/수정요약.md.tmp.18212.1777385100537",
+    "초안_v4/아이디어.md",
+    "초안_v4/아이디어.md.tmp.18212.1777384813008",
+    "초안_v4",
+    "초안_v3/초안v3.md.tmp.18212.1777377150165",
+    "초안_v3/초안_v3_page5.md",
+    "초안_v3/초안_v3_page5.md.tmp.18212.1777377074503",
+    "초안_v3/초안v3.md.tmp.18212.1777375681545",
+    "초안_v2/초안_v2.md",
+    "초안_v2/초안_v2_page4_5.md",
+    "초안_v2/초안_v2_page3.md",
     "초안_v3/초안_v3_page3.md",
+    "조사자료/git원문.md",
     "조사자료/x원문.md",
     "조사자료/두글 비교.md",
     "초안_v1/초안.md",
@@ -215,28 +238,14 @@
     "초안_v3/~$초안v3.pptx",
     "초안_v3/__pycache__/_design.cpython-313.pyc",
     "초안_v3/__pycache__",
-    "초안_v3/_design.py",
-    "초안_v3/_build_slide2.py",
     "초안_v3/초안_v3c_page2.md",
     "초안_v3/초안_v3b_page2.md",
     "초안_v3/초안_v3a_page2.md",
     "초안_v2/초안_v2_page2.md",
-    "초안_v2/초안_v2_page3.md",
-    "초안_v2/초안_v2.md",
     "초안_v3/_slide1_preview.png",
-    "초안_v3/초안v3.pptx",
-    "초안_v3/_build_slide1.py",
     "초안_v3/_x_composite.png",
-    "초안_v3",
-    "초안_v1",
     "초안_v2_page3.md",
-    "초안_v2/초안_v2_page4_5.md",
-    "초안_v2",
     "초안_v2_page4_5.md",
-    "초안_v2.md",
-    "초안_v2_page2.md",
-    "생각_v2.md",
-    "초안.md",
     "화면 캡처 2026-04-28 111952.png",
     "_excalidraw_images/c393bac0fb1e.png",
     "_excalidraw_images/d67f1dc00eac.png",
